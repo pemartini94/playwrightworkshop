@@ -9,7 +9,15 @@
       "Bash(cp /Users/pedromartins/Desktop/workshop-tests/workshop-app-initial/src/App.tsx /Users/pedromartins/Desktop/workshop-tests/workshop-app/src/App.tsx)",
       "Bash(cp /Users/pedromartins/Desktop/workshop-tests/workshop-app-initial/src/utils/utils.ts /Users/pedromartins/Desktop/workshop-tests/workshop-app/src/utils/utils.ts)",
       "Bash(cp /Users/pedromartins/Desktop/workshop-tests/workshop-app-initial/src/components/ContactForm.tsx /Users/pedromartins/Desktop/workshop-tests/workshop-app/src/components/ContactForm.tsx)",
-      "Bash(npm run:*)"
+      "Bash(npm run:*)",
+      "Read(//Users/pedromartins/Desktop/workshop-tests/**)",
+      "Read(//Users/pedromartins/Desktop/**)",
+      "Bash(pip install:*)",
+      "Bash(pip3 install:*)",
+      "Bash(python3 analyze_pptx.py)",
+      "Bash(python3 analyze_pptx2.py)",
+      "Bash(tee /tmp/pptx_analysis.json)",
+      "Bash(python3:*)"
     ]
   }
 }
