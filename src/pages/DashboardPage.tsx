@@ -12,7 +12,7 @@ import {
 
 const today = new Date()
 const yearEnd = new Date(today.getFullYear(), 11, 31)
-const workshopStart = new Date('2024-01-15')
+const workshopStart = new Date('2026-04-01')
 
 const stats = [
   {
