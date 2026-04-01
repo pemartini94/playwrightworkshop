@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /Users/pedromartins/Desktop/workshop-tests/workshop-app-initial -type d -not -path */node_modules/* -not -path */.idea/*)",
+      "Bash(npm install:*)",
+      "Bash(npx tsc:*)",
+      "Bash(cp /Users/pedromartins/Desktop/workshop-tests/workshop-app-initial/src/index.css /Users/pedromartins/Desktop/workshop-tests/workshop-app/src/index.css)",
+      "Bash(cp /Users/pedromartins/Desktop/workshop-tests/workshop-app-initial/src/main.tsx /Users/pedromartins/Desktop/workshop-tests/workshop-app/src/main.tsx)",
+      "Bash(cp /Users/pedromartins/Desktop/workshop-tests/workshop-app-initial/src/App.tsx /Users/pedromartins/Desktop/workshop-tests/workshop-app/src/App.tsx)",
+      "Bash(cp /Users/pedromartins/Desktop/workshop-tests/workshop-app-initial/src/utils/utils.ts /Users/pedromartins/Desktop/workshop-tests/workshop-app/src/utils/utils.ts)",
+      "Bash(cp /Users/pedromartins/Desktop/workshop-tests/workshop-app-initial/src/components/ContactForm.tsx /Users/pedromartins/Desktop/workshop-tests/workshop-app/src/components/ContactForm.tsx)",
+      "Bash(npm run:*)"
+    ]
+  }
+}
